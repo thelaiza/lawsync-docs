@@ -33,5 +33,7 @@ O **LawSync: Agenda Jurídica** é uma aplicação web desenvolvida para otimiza
 ## 🤝 Contribuições
 
 Jhessica Alves
+
 Laíza Silva
+
 Victor Moy
