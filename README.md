@@ -30,6 +30,8 @@ O **LawSync: Agenda Jurídica** é uma aplicação web desenvolvida para otimiza
 * ✅ **Confirmação de Agendamentos:** Clientes podem confirmar ou cancelar seus compromissos com um clique.
 * 🔍 **Filtragem Avançada:** Filtre compromissos por advogado, período e status.
 
+* Mais detalhes: https://github.com/thelaiza/LawSync.wiki.git
+
 ## 🤝 Contribuições
 
 Jhessica Alves
