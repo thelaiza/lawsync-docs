@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://via.placeholder.com/150?text=LawSync" alt="Logo do LawSync (Opcional)">
-</p>
-
 <h1 align="center">📅 LawSync: Agenda Jurídica Digital ⚖️</h1>
 
 <p align="center">
