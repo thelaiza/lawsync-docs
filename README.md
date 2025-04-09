@@ -8,12 +8,11 @@
 
 ## 🚀 Sobre o Projeto
 
-O **LawSync: Agenda Jurídica** é uma aplicação web desenvolvida para otimizar a gestão de compromissos internos em escritórios de advocacia. Nosso sistema permite que advogados e secretários cadastrem, visualizem, editem e excluam compromissos em um calendário interativo, facilitando a organização e o acompanhamento das agendas.
+O **LawSync: Agenda Jurídica** é uma aplicação web desenvolvida para otimizar a gestão de compromissos internos em escritórios de advocacia. Nosso sistema permite que advogados cadastrem, visualizem, editem e excluam compromissos em um calendário interativo, facilitando a organização e o acompanhamento das agendas.
 
 ## 🎯 Usuários Principais
 
 * **👩‍⚖️ Advogados:** Visualizam e gerenciam seus próprios compromissos.
-* **🧑‍💼 Secretários:** Têm acesso a todos os compromissos para gerenciamento e organização das agendas dos advogados.
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -23,15 +22,12 @@ O **LawSync: Agenda Jurídica** é uma aplicação web desenvolvida para otimiza
 
 ## ✨ Funcionalidades Principais
 
-* 🔒 **Login Seguro:** Autenticação de usuários (advogados e secretários).
-* 👤 **Gerenciamento de Usuários:** Cadastro de novos usuários (advogados e secretários).
+* 🔒 **Login Seguro:** Autenticação de usuários.
+* 👤 **Gerenciamento de Usuários:** Cadastro de novos usuários.
 * 🗓️ **Gerenciamento de Compromissos:** Usuários autenticados podem cadastrar, editar e excluir compromissos com data, horário, título e descrição.
-* 🧑‍⚖️ **Controle de Acesso:** Secretários podem visualizar e editar todos os compromissos, enquanto advogados visualizam e editam apenas os seus.
 * 📅 **Calendário Interativo:** Exibição dos compromissos em um calendário com navegação por meses.
-* 🔍 **Filtragem:** Filtragem de compromissos por advogado e data.
-* ➕ **Especificação de Advogado:** Ao cadastrar, secretários podem especificar o advogado responsável.
 * 👀 **Visualização do Responsável:** O nome do advogado responsável é exibido nos compromissos.
-* ✏️ **Edição Completa:** Edição de todos os detalhes do compromisso, incluindo o advogado responsável (para secretários).
+* ✏️ **Edição Completa:** Edição de todos os detalhes do compromisso, incluindo o advogado responsável.
 * 🚫 **Validação de Horários:** Impede o cadastro de compromissos com horários inválidos.
 
 **Mais detalhes:** https://github.com/thelaiza/LawSync/wiki
