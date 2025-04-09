@@ -1,19 +1,19 @@
 <h1 align="center">📅 LawSync: Agenda Jurídica Digital ⚖️</h1>
 
 <p align="center">
-  Uma plataforma eficiente para escritórios de advocacia gerenciarem seus compromissos e agendas!
+    Uma plataforma eficiente para escritórios de advocacia gerenciarem os compromissos de seus advogados!
 </p>
 
 <br>
 
 ## 🚀 Sobre o Projeto
 
-O **LawSync: Agenda Jurídica** é uma aplicação web desenvolvida para otimizar a gestão de compromissos em escritórios de advocacia. Nosso sistema permite que advogados, secretários e clientes interajam de forma organizada, facilitando o agendamento, a visualização e a confirmação de consultas e reuniões.
+O **LawSync: Agenda Jurídica** é uma aplicação web desenvolvida para otimizar a gestão de compromissos internos em escritórios de advocacia. Nosso sistema permite que advogados e secretários cadastrem, visualizem, editem e excluam compromissos em um calendário interativo, facilitando a organização e o acompanhamento das agendas.
 
 ## 🎯 Usuários Principais
 
-* **👩‍⚖️ Advogados:** Visualizam e editam suas agendas, além de acessar a agenda de outros colegas.
-* **🧑‍⚖️ Clientes:** Recebem notificações, confirmam seus agendamentos e visualizam detalhes importantes.
+* **👩‍⚖️ Advogados:** Visualizam e gerenciam seus próprios compromissos.
+* **🧑‍💼 Secretários:** Têm acesso a todos os compromissos para gerenciamento e organização das agendas dos advogados.
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -23,13 +23,16 @@ O **LawSync: Agenda Jurídica** é uma aplicação web desenvolvida para otimiza
 
 ## ✨ Funcionalidades Principais
 
-* 🔒 **Login Seguro:** Autenticação de usuários com diferentes níveis de acesso.
-* 👤 **Gerenciamento de Usuários:** Cadastro, edição e exclusão de advogados, secretários e clientes.
-* 🗓️ **Visualização e Edição de Agendas:** Advogados e secretários podem gerenciar compromissos de forma intuitiva.
-* 🔔 **Notificações Automáticas:** Alertas por e-mail para lembrar os clientes sobre seus compromissos.
-* ✅ **Confirmação de Agendamentos:** Clientes podem confirmar ou cancelar seus compromissos com um clique.
-* 🔍 **Filtragem Avançada:** Filtre compromissos por advogado, período e status.
-
+* 🔒 **Login Seguro:** Autenticação de usuários (advogados e secretários).
+* 👤 **Gerenciamento de Usuários:** Cadastro de novos usuários (advogados e secretários).
+* 🗓️ **Gerenciamento de Compromissos:** Usuários autenticados podem cadastrar, editar e excluir compromissos com data, horário, título e descrição.
+* 🧑‍⚖️ **Controle de Acesso:** Secretários podem visualizar e editar todos os compromissos, enquanto advogados visualizam e editam apenas os seus.
+* 📅 **Calendário Interativo:** Exibição dos compromissos em um calendário com navegação por meses.
+* 🔍 **Filtragem:** Filtragem de compromissos por advogado e data.
+* ➕ **Especificação de Advogado:** Ao cadastrar, secretários podem especificar o advogado responsável.
+* 👀 **Visualização do Responsável:** O nome do advogado responsável é exibido nos compromissos.
+* ✏️ **Edição Completa:** Edição de todos os detalhes do compromisso, incluindo o advogado responsável (para secretários).
+* 🚫 **Validação de Horários:** Impede o cadastro de compromissos com horários inválidos.
 
 **Mais detalhes:** https://github.com/thelaiza/LawSync/wiki
 
