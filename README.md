@@ -1,41 +1,38 @@
-<h1 align="center">📅 LawSync: Agenda Jurídica Digital ⚖️</h1>
+<h1 align="center">📚 Documentação do Projeto LawSync ⚖️</h1>
 
 <p align="center">
-    Uma plataforma eficiente para escritórios de advocacia gerenciarem os compromissos de seus advogados!
+    Bem-vindo ao repositório central de documentação do LawSync: Agenda Jurídica Digital.
 </p>
 
 <br>
 
-## 🚀 Sobre o Projeto
+## 🚀 Sobre o Projeto LawSync
 
-O **LawSync: Agenda Jurídica** é uma aplicação web desenvolvida para otimizar a gestão de compromissos internos em escritórios de advocacia. Nosso sistema permite que advogados cadastrem, visualizem, editem e excluam compromissos em um calendário interativo, facilitando a organização e o acompanhamento das agendas.
+O **LawSync** é uma aplicação web desenvolvida para otimizar a gestão de compromissos internos em escritórios de advocacia. A solução é dividida em dois componentes principais: um frontend construído em React e um backend em Node.js.
 
-## 🎯 Usuários Principais
+Este espaço centraliza toda a documentação técnica e de negócio do projeto, servindo como um guia para desenvolvedores, contribuidores e stakeholders.
 
-* **👩‍⚖️ Advogados:** Visualizam e gerenciam seus próprios compromissos.
+## 🔗 Links Rápidos para os Repositórios
 
-## 🛠️ Tecnologias Utilizadas
+* **🖥️ Frontend (React):** [https://github.com/thelaiza/lawsync-frontend]
+* **⚙️ Backend (Node.js):** [https://github.com/thelaiza/lawsync-backend]
 
-* **Frontend:** <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge">
-* **Backend:** <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js Badge">
-* **Banco de Dados:** <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge">
+## 📖 Wiki do Projeto
 
-## ✨ Funcionalidades Principais
+Toda a documentação detalhada, incluindo arquitetura, guias de configuração, endpoints da API e regras de negócio, está disponível na **(https://github.com/thelaiza/LawSync-docs/wiki)**.
 
-* 🔒 **Login Seguro:** Autenticação de usuários.
-* 👤 **Gerenciamento de Usuários:** Cadastro de novos usuários.
-* 🗓️ **Gerenciamento de Compromissos:** Usuários autenticados podem cadastrar, editar e excluir compromissos com data, horário, título e descrição.
-* 📅 **Calendário Interativo:** Exibição dos compromissos em um calendário com navegação por meses.
-* 👀 **Visualização do Responsável:** O nome do advogado responsável é exibido nos compromissos.
-* ✏️ **Edição Completa:** Edição de todos os detalhes do compromisso, incluindo o advogado responsável.
-* 🚫 **Validação de Horários:** Impede o cadastro de compromissos com horários inválidos.
+### O que você encontrará na Wiki:
 
-**Mais detalhes:** https://github.com/thelaiza/LawSync/wiki
+* **Visão Geral da Arquitetura:** Como o frontend e o backend se comunicam.
+* **Guia de Instalação:** Passos detalhados para configurar o ambiente de desenvolvimento completo.
+* **Documentação da API:** Descrição de todos os endpoints, incluindo exemplos de requisições e respostas.
+* **Modelo de Dados:** Diagramas e explicações sobre a estrutura do banco de dados.
+* **Guias de Contribuição:** Como você pode contribuir para o projeto.
 
-## 🤝 Contribuições
-
+## 🤝 Contribuidores
 Jhessica Alves
-
 Laíza Silva
-
 Victor Moy
+* Jhessica Alves
+* Laíza Silva
+* Victor Moy
